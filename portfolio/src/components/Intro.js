@@ -1,6 +1,7 @@
 import React from "react";
 import { TypeAnimation } from "react-type-animation";
 import { motion } from "framer-motion";
+import Button from "./Button";
 // import Link from "next/link";
 
 const HeroSection = () => {
@@ -47,6 +48,7 @@ const HeroSection = () => {
           <p style={{ padding: "3vh" }} className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
             Business-oriented with the drive to learn and collaborate. My Interests include, yet are not limited to, the arts, creative writing, interior design, web development, and software development. I aspire to simplify the world with one line of code at a time.
           </p>
+          <Button />
           <div>
             {/* <Link href="/#contact" className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-green-500 to-blue-500 hover:bg-slate-200 text-white">
               Hire Me
