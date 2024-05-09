@@ -21,23 +21,19 @@ const HeroSection = () => {
             <br />
             <TypeAnimation
               sequence={[
-                "Shadman",
+                "Abrar",
                 1000,
-                "a Developer",
+                "a Mechanical Engineer by Education",
                 1000,
-                "a Product Specialist @ IKEA",
+                "a Systems Engineer by Profession",
                 1000,
-                "a Product Manager",
-                1000,
-                "a UI/UX Designer",
-                1000,
-                "a Poet",
+                "a Software Engineer through Further Education",
                 1000,
                 "a Teacher",
                 1000,
                 "a Learner",
                 1000,
-                "Shadman",
+                "Abrar",
                 1000,
               ]}
               wrapper="span"
@@ -46,7 +42,9 @@ const HeroSection = () => {
             />
           </h1>
           <p style={{ padding: "3vh" }} className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Business-oriented with the drive to learn and collaborate. My Interests include, yet are not limited to, the arts, creative writing, interior design, web development, and software development. I aspire to simplify the world with one line of code at a time.
+            My journey into Systems Engineering has been a diverse adventure, I've cultivated a diverse skill set that spans from Model Based Systems Engineering utilizing Cameo architect modeling to contributing to a proposal program that secured and won the contract. My expertise extends to drafting precise requirements, conducting software and hardware tests, and developing technical documentations. I've navigated in both waterfall and agile environments, from developing scrum principles to leading flight tests. 
+
+            I'm adept in CAD across various platforms such as AutoCAD and possess extensive programming knowledge, including JavaScript, React, HTML, Python, SQL, MATLAB, C++, and more. This journey reflects not just my skills, but a relentless drive to push boundaries in engineering.
           </p>
           <Button />
           <div>
