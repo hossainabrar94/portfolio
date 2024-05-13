@@ -25,13 +25,15 @@ const HeroSection = () => {
                 1000,
                 "a Mechanical Engineer by Education",
                 1000,
+                "a Software Engineer by Education",                
+                1000,
                 "a Systems Engineer by Profession",
                 1000,
-                "a Software Engineer through Further Education",
-                1000,
-                "a Teacher",
+                "a Full-Stack Developer",
                 1000,
                 "a Learner",
+                1000,
+                "a Teacher",
                 1000,
                 "Abrar",
                 1000,
@@ -42,9 +44,7 @@ const HeroSection = () => {
             />
           </h1>
           <p style={{ padding: "3vh" }} className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            My journey into Systems Engineering has been a diverse adventure, I've cultivated a diverse skill set that spans from Model Based Systems Engineering utilizing Cameo architect modeling to contributing to a proposal program that secured and won the contract. My expertise extends to drafting precise requirements, conducting software and hardware tests, and developing technical documentations. I've navigated in both waterfall and agile environments, from developing scrum principles to leading flight tests. 
-
-            I'm adept in CAD across various platforms such as AutoCAD and possess extensive programming knowledge, including JavaScript, React, HTML, Python, SQL, MATLAB, C++, and more. This journey reflects not just my skills, but a relentless drive to push boundaries in engineering.
+          As a detail-oriented software and systems engineer with a robust background in aerospace and defense technologies, I am driven by the convergence of innovation and utility. My experience spans across esteemed organizations like Lockheed Martin, Raytheon Technologies, and L3Harris Technologies, where I have honed a diverse skill set in full-stack development, systems engineering, and project management.
           </p>
           <Button />
           <div>
